@@ -1,16 +1,9 @@
 # random_color_generation
 
-A new Flutter project.
+A Flutter app that changes the background color to a new random color on tap. The transition is animated.
 
-## Getting Started
+The project uses **solid_lints** package.
 
-This project is a starting point for a Flutter application.
+![color_animation](https://github.com/MartynasZabulionis/random_color_generation/assets/39856703/525731cc-9c02-4a5b-9e15-0a7c2b8c2fb4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
